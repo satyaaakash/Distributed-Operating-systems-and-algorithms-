@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4AayQEgHgTbjdDPar2P+vi5Fjse4U94k/vH4YQPGYl4n5xAwS/0BZTln+O1lyN+cGU49nADEPyR8kv6Lshjtfw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Satya Aakash\\OneDrive\\Desktop\\server\\server.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Satya Aakash\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
